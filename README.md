@@ -9,7 +9,7 @@ json-server --watch db.json
 ```
 
 
-GitHub Pages
+JSON Server
 
 [https://github.com/doguedogue/my-json-server](https://github.com/doguedogue/my-json-server)
 
